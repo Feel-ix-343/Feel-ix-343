@@ -1,4 +1,13 @@
-### Hi there 👋
+# Felix Zeller
+
+Languages: Scala, Python, ...
+
+Some contributions listed below
+
+## Current Projects
+[Web Nav](https://github.com/Feel-ix-343/Web_Nav)
+
+![](https://komarev.com/ghpvc/?username=feel-ix-343)
 
 <!--
 **Feel-ix-343/Feel-ix-343** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
