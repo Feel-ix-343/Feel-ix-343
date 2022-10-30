@@ -1,6 +1,6 @@
 # Felix Zeller
 
-Languages: Scala, Python, Rust
+Languages: Scala, Python, Rust, Typescript
 
 
 
