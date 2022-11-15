@@ -1,5 +1,7 @@
 # Felix Zeller
 
+Programming for dopamine since day 1. 
+
 Languages: Scala, Python, Rust, Typescript
 
 
