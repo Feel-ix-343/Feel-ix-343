@@ -1,8 +1,8 @@
-# Felix Zeller
+# Opp
 
 Programming for dopamine since day 1. 
 
-Languages: Scala, Python, Rust, Typescript
+Languages: Assembly, Binary, Microsoft Excel
 
 
 # Main Projects (Pinned Below)
@@ -12,4 +12,6 @@ Languages: Scala, Python, Rust, Typescript
 ## Other Projects
 My Trading-view account with one of my first scripts (my intro to programming): https://www.tradingview.com/script/LzFt8cCN-Harmonic-Indicator/
 
-
+# Current goals
+- Touching grass (priority 1)
+- Making USAMO
