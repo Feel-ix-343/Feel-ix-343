@@ -1,10 +1,10 @@
 # Felix Zeller
 
 Programming for dopamine. 
-
+    
 Barrington Computer Club Enjoyer: https://computerclub.dev 
 
-My readmes are very descriptive and have MANY graphics! If any of my projects look intersting, I strongly recommend reading through them. 
+My readmes are very descriptive and have MANY graphics! If any of my projects look interesting, I strongly recommend reading through them. 
 
 For example, here is a visual for the graph algorithm of [Webnav](https://github.com/Feel-ix-343/Web_Nav):
 
