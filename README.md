@@ -7,6 +7,6 @@ Programming for dopamine.
   - 2025-Now: (second attempt at general search) Collected the relevant portion of the web. This was an index expansion effort where I tried to figure out how to get the best set of documents on the Web, and then worked on developing the index infrastructure needed to continuously collect and serve these documents. Scaled our crawling from 500 pages per second to 50k pages to second.
 - 2023-2025: Building [Markdown-Oxide](https://github.com/Feel-ix-343/markdown-oxide), which is a markdown-based knowledge management backend for any text editor. Markdown-oxide became the second most popular open-source markdown language server, has 80k+ downloads, and 17+ contributors.
 - 2021: Projects regarding (partially) algorithmic day trading
-  - Harmonic Indicator: [Harmonic Pattern](https://www.investopedia.com/articles/forex/11/harmonic-patterns-in-the-currency-markets.asp) technical analysis screener with on-chart buy and sell targets: https://www.tradingview.com/script/LzFt8cCN-Harmonic-Indicator/
+  - Harmonic Indicator: [Harmonic Pattern](https://www.investopedia.com/articles/forex/11/harmonic-patterns-in-the-currency-markets.asp) technical analysis screener with on-chart buy and sell targets: https://www.tradingview.com/script/LzFt8cCN-Harmonic-Indicator/. This is quite popular on trading view with 3k 'boosts' and 75k views.
 
 
