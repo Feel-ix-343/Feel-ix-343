@@ -12,4 +12,4 @@ Programming for dopamine.
   - September 2024: Developed a billion-scale Keyword+Embeddings search engine in Exa's vector database. This allowed Exa to handle an new, important class of queries (highly specific keyword ones) and generally improved recall. This is *Exa Hybrid Search*
   - Jan, 2025-June 2025: Did web index research + developed crawling infrastructure to expand the Exa index to the full *relevant portion of the web* (billions++). After this development, Exa started to beat Google on some general search eval sets.
 
-
+reach out at felixazeller@gmail.com or felix@exa.ai
