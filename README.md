@@ -10,6 +10,6 @@ Programming for dopamine.
 - 2023-2024: Building [Markdown-Oxide](https://github.com/Feel-ix-343/markdown-oxide), a markdown-based knowledge management backend for any text editor. Markdown-oxide became the second most popular open-source markdown language server, has 80k+ downloads, and 17+ contributors.
 - 2024-2025: Developing general informational search at [Exa.ai](https://exa.ai/) - objective: build extremely high precision informational web search, independent of google/bing, and give it to LLMs as an enterprise-ready API (with ZDR and such)
   - September 2024: Developed a billion-scale Keyword+Embeddings search engine in Exa's vector database. This allowed Exa to handle an new, important class of queries (highly specific keyword ones) and generally improved recall. This is *Exa Hybrid Search*
-  - Jan, 2025-June 2025: Did web index research + developed crawling infrastructure to expand the Exa index to the full *relevant portion of the web* (billions++). After this development, Exa started to beat Google on some general search eval sets.
+  - Jan, 2025-June 2025: Did web index research + developed crawling infrastructure to expand the Exa index to the full *relevant portion of the web* (billions++). After this, Exa started to beat Google on some general search eval sets.
 
 reach out at felixazeller@gmail.com, felix@exa.ai, or on [twitter](https://x.com/feel_ix_)
