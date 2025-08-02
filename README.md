@@ -10,7 +10,7 @@ Programming for dopamine.
 - 2023-2024: Built the second most popular markdown language server, [Markdown-Oxide](https://github.com/Feel-ix-343/markdown-oxide). Markdown-oxide is an obsidian-style knowledge management backend for any text editor.
 - 2024-2025: Developing an informational web search engine/API at [Exa.ai](https://exa.ai/) in San Francisco
   - September 2024-Jan 2025: R&D + infra eng for a billion-scale Hybrid Search engine (Keyword+Embeddings)
-  - Jan 2025-June 2025: R&D + infra eng to collect the relevant portion of the web then serve it
+  - Jan 2025-June 2025: R&D + infra eng to collect the relevant portion of the web then serve it.
  
 ---
 
