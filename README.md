@@ -11,6 +11,6 @@ Programming for dopamine.
   - August 2024: beating google through hybrid search
   - January 2025: beating google through collecting more urls
   - April 2025: beat google
-  - May 2025: beating google, but as the fastest search API in the world
+  - May 2025: beating google, but fastest in the world
   - July 2025: transcending google
 
