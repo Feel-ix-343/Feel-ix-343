@@ -12,7 +12,7 @@ Programming for dopamine .
   - January 2025: beating google with bigger index
   - April 2025: beat google on popular things
   - May 2025: beating google, but fastest in the world
-  - June 2025: query interpretation and freshness engine
+  - June 2025: shipped query interpretation and freshness engine
   - August 2025: 2x faster sota search p50, and shat on every p99
   - September 2025: sidequesting, shipped [exa-code](https://x.com/ExaAILabs/status/1971264749062193588)
   
