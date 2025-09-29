@@ -9,7 +9,7 @@ Programming for dopamine .
   - 2024: pivoted to the second most popular markdown language server on github
 - August 2024: organizing more knowledge, [Exa Web Search](https://exa.ai)
   - August 2024: beating google with hybrid search
-  - January 2025: beating google with bigger index
+  - January 2025: then beating google with bigger index
   - April 2025: beat google on popular things
   - May 2025: beating google, but fastest in the world
   - June 2025: shipped query interpretation and freshness engine
