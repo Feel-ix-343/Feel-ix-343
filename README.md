@@ -14,7 +14,7 @@ Programming for dopamine .
   - May 2025: beating google, but fastest in the world
   - June 2025: shipped query interpretation and freshness engine
   - August 2025: 2x faster sota search p50 2s -> 1s, and shat on every p99
-  - September 2025: sidequesting, shipped e[x](https://x.com/ExaAILabs/status/1971264749062193588)a[-code](https://exa.ai/blog/exa-code)
+  - September 2025: sidequest: led e[x](https://x.com/ExaAILabs/status/1971264749062193588)a[-code](https://exa.ai/blog/exa-code)
   
   
 
