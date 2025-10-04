@@ -8,7 +8,7 @@ Programming for dopamine .
   - 2023: making a markdown language server to use my Obsidian vault in Neovim
   - 2024: pivoted to the second most popular markdown language server on github
 - August 2024: organizing more knowledge, [Exa Web Search](https://exa.ai)
-  - August 2024: beating google with hybrid search
+  - August 2024: beating google with in-house hybrid search
   - January 2025: then beating google with bigger index
   - April 2025: beat google on popular things
   - May 2025: beating google, but fastest in the world
