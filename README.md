@@ -13,7 +13,7 @@ Programming for dopamine .
   - April 2025: finally beat google on popular things
   - May 2025: fastest search api (350ms)
   - June 2025: led development of a dedicated freshness/query-interpretation engine
-  - August 2025: 2x faster sota search 2s -> 1s
+  - August 2025: 6x faster reranker
   - September 2025: sidequest: led development of e[x](https://x.com/ExaAILabs/status/1971264749062193588)a[-code](https://exa.ai/blog/exa-code)
   
   
