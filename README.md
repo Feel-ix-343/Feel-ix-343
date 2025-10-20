@@ -11,7 +11,7 @@ Programming for dopamine .
   - January 2025: made web scale hybrid search from scratch in rust
   - April 2025: found/shipped a 20x bigger index that beat google on popular queries
   - May 2025: led freshness/query-interpretation engine development
-  - June 2025: made a distributed profiler to ship the fastest search api in the world
+  - June 2025: worked on observability for the fastest search api in the world (350ms)
   - September 2025: led e[x](https://x.com/ExaAILabs/status/1971264749062193588)a[-code](https://exa.ai/blog/exa-code) development
   - lately I've been exploring why web search is so dumb
   
