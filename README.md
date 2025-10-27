@@ -6,7 +6,7 @@ Programming for dopamine .
 
 - 2023-2024: organizing knowledge, [Markdown-Oxide](https://github.com/Feel-ix-343/markdown-oxide)
   - 2023: making a markdown language server to use my Obsidian vault in Neovim
-  - 2024: pivoted to the second most popular markdown language server on github
+  - 2024: made it the second most popular markdown language server on github
 - August 2024: organizing more knowledge, [Exa Web Search](https://exa.ai)
   - January 2025: made web scale hybrid search from scratch in rust
   - April 2025: found/shipped a 20x bigger index that beat google on popular queries
