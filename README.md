@@ -13,7 +13,7 @@ Programming for dopamine .
   - May 2025: led freshness/query-interpretation engine development
   - June 2025: worked on observability to make the fastest search api in the world (350ms)
   - September 2025: led e[x](https://x.com/ExaAILabs/status/1971264749062193588)a[-code](https://exa.ai/blog/exa-code) development
-  - lately I've been exploring why web search is so dumb
+  - lately I've been exploring what's wrong with web search
   
   
 
