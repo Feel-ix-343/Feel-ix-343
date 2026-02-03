@@ -5,8 +5,8 @@ programming for dopamine.
 ---
 
 - 2023-2024: organizing knowledge, [Markdown-Oxide](https://github.com/Feel-ix-343/markdown-oxide)
-  - 2023: markdown language server to support Obsidian style wikilinks in Neovim
-  - 2024: became the second most popular markdown language server on github
+  - Markdown-oxide is an editor-agnostic knowledge management tool - inspired by Obsidian.md
+  - Now the second-most popular OSS markdown language server, It's used by hundreds of thousands of developers, researchers, students, and authors across the world. 
 - August 2024: organizing more knowledge, [Exa Web Search](https://exa.ai)
   - January 2025: billion scale hybrid search from scratch in rust
   - April 2025: R&D for 20x index expansion that beat google for ~key customers.
