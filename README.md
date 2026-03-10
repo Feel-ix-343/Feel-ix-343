@@ -12,7 +12,7 @@ programming for dopamine.
   - April 2025: Led R&D for 20x index expansion that beat google for our largest clients and established Exa as a general search engine.
   - June 2025: Co-Created Exa Fast, the fastest and highest quality low-latency search API in the world (<350ms).
   - September 2025: Created and led R&D for e[x](https://x.com/ExaAILabs/status/1971264749062193588)a[-code](https://exa.ai/blog/exa-code); now used by millions of developers.
-  - now: post training research -- creating a search engine unbounded by hueristics
+  - now: ML research
   
   
   
